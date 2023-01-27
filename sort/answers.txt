@@ -1,0 +1,11 @@
+sort1 uses: Bubble.
+
+How do you know?: Lowest times for sorted data sets.
+
+sort2 uses: Merge.
+
+How do you know?: Lowest times generally.
+
+sort3 uses: Selection.
+
+How do you know?: Not good at anything.
